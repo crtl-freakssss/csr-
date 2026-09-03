@@ -1,0 +1,594 @@
+[
+  {
+    "project_id": "PRJ-0001",
+    "name": "Bihar Digital Classroom Initiative",
+    "ngo_id": "NGO-0001",
+    "sector": "EDUCATION",
+    "geographies": [
+      {
+        "state": "Bihar",
+        "district": "Gaya",
+        "block": "Bodh Gaya"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3500,
+      "groups": ["students", "rural_youth"],
+      "age_ranges": ["10-18"],
+      "vulnerable_groups": ["first_generation_learners"]
+    },
+    "financials": {
+      "requested_amount_paise": 250000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-001",
+        "name": "Students certified in digital literacy",
+        "unit": "students",
+        "baseline": 0.0,
+        "target": 3500.0,
+        "measurement_method": "Standardized assessment"
+      }
+    ],
+    "description": "Equipping rural high schools with solar-powered computer labs and verified digital curriculum.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0002",
+    "name": "Odisha Tribal Maternal Health Network",
+    "ngo_id": "NGO-0002",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Odisha",
+        "district": "Rayagada",
+        "block": "Bissam Cuttack"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 1800,
+      "groups": ["tribal_women", "infants"],
+      "age_ranges": ["18-35", "0-2"],
+      "vulnerable_groups": ["PVTG_communities"]
+    },
+    "financials": {
+      "requested_amount_paise": 40000000,
+      "current_funding_paise": 5000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-002",
+        "name": "Institutional deliveries supported",
+        "unit": "deliveries",
+        "baseline": 420.0,
+        "target": 1800.0,
+        "measurement_method": "PHC registry cross-reference"
+      }
+    ],
+    "description": "Mobile prenatal clinics and community health worker support for remote tribal hamlets.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0003",
+    "name": "Vidarbha Agroforestry & Groundwater Recharge",
+    "ngo_id": "NGO-0003",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Maharashtra",
+        "district": "Yavatmal",
+        "block": "Ralegaon"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 2400,
+      "groups": ["smallholder_farmers"],
+      "age_ranges": ["25-60"],
+      "vulnerable_groups": ["drought_affected_farmers"]
+    },
+    "financials": {
+      "requested_amount_paise": 35000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-003",
+        "name": "Hectares brought under rainwater harvesting",
+        "unit": "hectares",
+        "baseline": 150.0,
+        "target": 950.0,
+        "measurement_method": "Satellite vegetation index and water table sensors"
+      }
+    ],
+    "description": "Constructing continuous contour trenches and introducing high-yield agroforestry saplings.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0004",
+    "name": "Jharkhand Solar Micro-Grid for Rural Clinics",
+    "ngo_id": "NGO-0004",
+    "sector": "RURAL_DEVELOPMENT",
+    "geographies": [
+      {
+        "state": "Jharkhand",
+        "district": "Gumla",
+        "block": "Chainpur"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 5000,
+      "groups": ["rural_patients", "primary_care_staff"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["off_grid_households"]
+    },
+    "financials": {
+      "requested_amount_paise": 50000000,
+      "current_funding_paise": 10000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-004",
+        "name": "Primary Health Centers with 24/7 reliable power",
+        "unit": "centers",
+        "baseline": 2.0,
+        "target": 18.0,
+        "measurement_method": "Smart grid uptime loggers"
+      }
+    ],
+    "description": "Decentralized rooftop solar installation with battery storage for critical medical refrigeration.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0005",
+    "name": "Rajasthan Desert Women Artisan Cooperative",
+    "ngo_id": "NGO-0005",
+    "sector": "GENDER_EQUALITY",
+    "geographies": [
+      {
+        "state": "Rajasthan",
+        "district": "Barmer",
+        "block": "Sheo"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 1200,
+      "groups": ["women_artisans"],
+      "age_ranges": ["19-50"],
+      "vulnerable_groups": ["below_poverty_line"]
+    },
+    "financials": {
+      "requested_amount_paise": 20000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 15,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-005",
+        "name": "Average monthly income increase per artisan",
+        "unit": "INR",
+        "baseline": 2200.0,
+        "target": 6500.0,
+        "measurement_method": "Bank passbook audit"
+      }
+    ],
+    "description": "Capacity building and direct e-commerce market linkage for traditional applique handcrafts.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0006",
+    "name": "Assam Flood Resilient Organic Farming",
+    "ngo_id": "NGO-0006",
+    "sector": "LIVELIHOOD",
+    "geographies": [
+      {
+        "state": "Assam",
+        "district": "Dhemaji",
+        "block": "Sissiborgaon"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3000,
+      "groups": ["flood_prone_farmers"],
+      "age_ranges": ["20-65"],
+      "vulnerable_groups": ["marginal_landholders"]
+    },
+    "financials": {
+      "requested_amount_paise": 30000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-006",
+        "name": "Farmers adopting flood-tolerant deepwater rice varieties",
+        "unit": "farmers",
+        "baseline": 150.0,
+        "target": 3000.0,
+        "measurement_method": "Krishi Vigyan Kendra field verification"
+      }
+    ],
+    "description": "Distributing resilient seeds and training smallholders in floating nursery techniques.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0007",
+    "name": "UP Malnutrition Screening & Fortified Diet Hub",
+    "ngo_id": "NGO-0007",
+    "sector": "POVERTY_HUNGER",
+    "geographies": [
+      {
+        "state": "Uttar Pradesh",
+        "district": "Bahraich",
+        "block": "Mihinpurwa"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 6500,
+      "groups": ["undernourished_children", "lactating_mothers"],
+      "age_ranges": ["0-6", "18-40"],
+      "vulnerable_groups": ["severely_acute_malnourished"]
+    },
+    "financials": {
+      "requested_amount_paise": 45000000,
+      "current_funding_paise": 8000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-007",
+        "name": "Children recovered from SAM to normal weight-for-age",
+        "unit": "children",
+        "baseline": 0.0,
+        "target": 4200.0,
+        "measurement_method": "Anganwadi growth monitoring charts"
+      }
+    ],
+    "description": "Decentralized production and distribution of locally sourced energy-dense nutritional supplements.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0008",
+    "name": "Bihar Clean Drinking Water Kiosks Network",
+    "ngo_id": "NGO-0008",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Bihar",
+        "district": null,
+        "block": null
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 12000,
+      "groups": ["rural_citizens"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["arsenic_affected_zones"]
+    },
+    "financials": {
+      "requested_amount_paise": 60000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-008",
+        "name": "Liters of WHO-standard potable water dispensed daily",
+        "unit": "liters",
+        "baseline": 0.0,
+        "target": 50000.0,
+        "measurement_method": "Smart flowmeter IoT telemetry"
+      }
+    ],
+    "description": "Community-owned RO purification kiosks addressing high groundwater fluoride and arsenic concentrations.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0009",
+    "name": "Odisha Mangrove Restoration & Coastal Defense",
+    "ngo_id": "NGO-0009",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Odisha",
+        "district": "Kendrapara",
+        "block": "Rajnagar"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4000,
+      "groups": ["coastal_fisherfolk"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["cyclone_vulnerable_settlements"]
+    },
+    "financials": {
+      "requested_amount_paise": 28000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-009",
+        "name": "Mangrove saplings successfully rooted",
+        "unit": "saplings",
+        "baseline": 10000.0,
+        "target": 250000.0,
+        "measurement_method": "Drone photogrammetry"
+      }
+    ],
+    "description": "Replanting tidal mangrove buffers to prevent storm surge damage and protect marine nursery habitats.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0010",
+    "name": "Maharashtra Youth Vocational Robotics & Welding",
+    "ngo_id": "NGO-0010",
+    "sector": "EDUCATION",
+    "geographies": [
+      {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "block": "Haveli"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 800,
+      "groups": ["periurban_youth"],
+      "age_ranges": ["18-28"],
+      "vulnerable_groups": ["unemployed_diploma_holders"]
+    },
+    "financials": {
+      "requested_amount_paise": 32000000,
+      "current_funding_paise": 4000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-010",
+        "name": "Youth placed in certified industrial manufacturing jobs",
+        "unit": "job_placements",
+        "baseline": 50.0,
+        "target": 680.0,
+        "measurement_method": "Employer offer letter verification"
+      }
+    ],
+    "description": "Technical upskilling center aligned with national automotive manufacturing standards.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0011",
+    "name": "Jharkhand Lac & Forest Honey Processing Cluster",
+    "ngo_id": "NGO-0011",
+    "sector": "LIVELIHOOD",
+    "geographies": [
+      {
+        "state": "Jharkhand",
+        "district": "Khunti",
+        "block": "Torpa"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 2100,
+      "groups": ["tribal_forest_gatherers"],
+      "age_ranges": ["20-55"],
+      "vulnerable_groups": ["minor_forest_produce_harvesters"]
+    },
+    "financials": {
+      "requested_amount_paise": 22000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-011",
+        "name": "Value realization per kilogram of raw produce",
+        "unit": "percentage_increase",
+        "baseline": 0.0,
+        "target": 45.0,
+        "measurement_method": "Cooperative sales ledger auditing"
+      }
+    ],
+    "description": "Establishing primary filtration and aggregation units for non-timber forest produce.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0012",
+    "name": "Rajasthan Camel Dairy Value Chain",
+    "ngo_id": "NGO-0012",
+    "sector": "RURAL_DEVELOPMENT",
+    "geographies": [
+      {
+        "state": "Rajasthan",
+        "district": "Bikaner",
+        "block": "Lunkaransar"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 950,
+      "groups": ["pastoral_herders"],
+      "age_ranges": ["25-65"],
+      "vulnerable_groups": ["Raika_pastoralists"]
+    },
+    "financials": {
+      "requested_amount_paise": 18000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 15,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-012",
+        "name": "Chilled milk volume processed daily",
+        "unit": "liters",
+        "baseline": 200.0,
+        "target": 1800.0,
+        "measurement_method": "Bulk milk cooler digital scales"
+      }
+    ],
+    "description": "Cold chain development and hygienic packaging to preserve pastoral livelihoods and biodiversity.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0013",
+    "name": "Assam Rural Telemedicine & Boat Ambulance",
+    "ngo_id": "NGO-0013",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Assam",
+        "district": null,
+        "block": null
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 8000,
+      "groups": ["river_island_residents"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["char_inhabitants"]
+    },
+    "financials": {
+      "requested_amount_paise": 55000000,
+      "current_funding_paise": 15000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-013",
+        "name": "Emergency patient transports completed",
+        "unit": "transports",
+        "baseline": 60.0,
+        "target": 950.0,
+        "measurement_method": "Digital navigation and clinic admission slips"
+      }
+    ],
+    "description": "Solar-powered boat clinics providing critical healthcare access to remote Brahmaputra island communities.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0014",
+    "name": "UP Girls STEM Mentorship & Scholarship Fund",
+    "ngo_id": "NGO-0014",
+    "sector": "GENDER_EQUALITY",
+    "geographies": [
+      {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "block": "Kashi Vidyapeeth"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 1500,
+      "groups": ["female_students"],
+      "age_ranges": ["14-20"],
+      "vulnerable_groups": ["low_income_households"]
+    },
+    "financials": {
+      "requested_amount_paise": 15000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-014",
+        "name": "Students transitioning to tertiary STEM education",
+        "unit": "students",
+        "baseline": 120.0,
+        "target": 1100.0,
+        "measurement_method": "College matriculation receipts"
+      }
+    ],
+    "description": "Providing direct scholarship stipends and corporate mentorship to keep girls in science education.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0015",
+    "name": "Bundelkhand Drought Mitigation & Check Dams",
+    "ngo_id": "NGO-0015",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Uttar Pradesh",
+        "district": "Jhansi",
+        "block": "Babina"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4500,
+      "groups": ["dryland_farmers"],
+      "age_ranges": ["18-70"],
+      "vulnerable_groups": ["water_stressed_villagers"]
+    },
+    "financials": {
+      "requested_amount_paise": 48000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-015",
+        "name": "Million cubic feet water storage capacity added",
+        "unit": "mcft",
+        "baseline": 0.5,
+        "target": 12.0,
+        "measurement_method": "Topographical volumetric survey"
+      }
+    ],
+    "description": "Constructing micro check-dams and desilting historical water storage step-wells.",
+    "schema_version": "project-v1"
+  },
+  {
+    "project_id": "PRJ-0016",
+    "name": "Bihar Decentralized Poultry Producer Network",
+    "ngo_id": "NGO-0016",
+    "sector": "LIVELIHOOD",
+    "geographies": [
+      {
+        "state": "Bihar",
+        "district": "Purnia",
+        "block": "Kasba"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 2800,
+      "groups": ["women_farmers"],
+      "age_ranges": ["22-50"],
+      "vulnerable_groups": ["landless_laborers"]
+    },
+    "financials": {
+      "requested_amount_paise": 26000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 14,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-016",
+        "name": "Women with active backyard poultry units",
+        "unit": "poultry_units",
+        "baseline": 200.0,
+        "target": 2800.0,
+        "measurement_method": "Veterinary inspection records"
+      }
+    ],
+    "description": "Supplying immunized day-old chicks, feed subsidies, and veterinary extension to self-help groups.",
+    "schema_version": "project-v1"
+  }
+]
