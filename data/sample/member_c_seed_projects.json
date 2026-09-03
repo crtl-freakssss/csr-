@@ -1,0 +1,977 @@
+[
+  {
+    "project_id": "PRJ-0001",
+    "name": "Urban Digital Classrooms Initiative",
+    "ngo_id": "NGO-0001",
+    "sector": "EDUCATION",
+    "geographies": [
+      {
+        "state": "Maharashtra",
+        "district": "Pune",
+        "block": "Haveli"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 10000,
+      "groups": ["urban school students", "slum youth"],
+      "age_ranges": ["6-14", "15-18"],
+      "vulnerable_groups": ["slum dwellers", "migrant families"]
+    },
+    "financials": {
+      "requested_amount_paise": 50000000,
+      "current_funding_paise": 45000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-001",
+        "name": "Students with Digital Lab Access",
+        "unit": "students",
+        "baseline": 1500.0,
+        "target": 10000.0,
+        "measurement_method": "School attendance and terminal exams"
+      }
+    ],
+    "description": "Smart classroom integration across municipal schools in peri-urban Pune. Demonstrates Case 1: High total impact score (0.94) but heavily funded with low incremental marginal return per lakh.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0001",
+      "project_id": "PRJ-0001",
+      "need_score": 0.65,
+      "expected_impact_score": 0.94,
+      "cost_efficiency_score": 0.60,
+      "evidence_strength_score": 0.92,
+      "scalability_score": 0.88,
+      "implementation_risk_score": 0.15,
+      "beneficiary_reach": 10000,
+      "estimated_impact_per_lakh": 12.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.94,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0002",
+    "name": "Kishori Health & Nutrition Drive",
+    "ngo_id": "NGO-0002",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Bihar",
+        "district": "Gaya",
+        "block": "Mohanpur"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 6500,
+      "groups": ["adolescent girls", "young mothers"],
+      "age_ranges": ["12-19", "20-25"],
+      "vulnerable_groups": ["rural poor", "scheduled caste communities"]
+    },
+    "financials": {
+      "requested_amount_paise": 35000000,
+      "current_funding_paise": 5000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-002",
+        "name": "Anaemia Reduction Rate",
+        "unit": "percentage_points",
+        "baseline": 68.0,
+        "target": 32.0,
+        "measurement_method": "Clinical haemoglobin screenings"
+      }
+    ],
+    "description": "Community nutrition and adolescent health outreach in aspirational district Gaya. Demonstrates Case 2: Severely underserved region with extreme need (0.96) and high marginal social return.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0002",
+      "project_id": "PRJ-0002",
+      "need_score": 0.96,
+      "expected_impact_score": 0.86,
+      "cost_efficiency_score": 0.91,
+      "evidence_strength_score": 0.78,
+      "scalability_score": 0.72,
+      "implementation_risk_score": 0.28,
+      "beneficiary_reach": 6500,
+      "estimated_impact_per_lakh": 48.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.88,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0003",
+    "name": "Metro Waste Segregation & Solar Hub",
+    "ngo_id": "NGO-0003",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Karnataka",
+        "district": "Bengaluru Urban",
+        "block": "Bengaluru South"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 12000,
+      "groups": ["urban residents", "sanitation workers"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["informal waste collectors"]
+    },
+    "financials": {
+      "requested_amount_paise": 40000000,
+      "current_funding_paise": 30000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-003",
+        "name": "Dry Waste Diverted from Landfills",
+        "unit": "metric_tons",
+        "baseline": 120.0,
+        "target": 850.0,
+        "measurement_method": "Weighbridge receipts"
+      }
+    ],
+    "description": "Decentralized waste segregation and rooftop solar installations in South Bengaluru. Demonstrates Case 3: Saturated metro region where existing CSR funding is high, resulting in lower incremental priority.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0003",
+      "project_id": "PRJ-0003",
+      "need_score": 0.42,
+      "expected_impact_score": 0.82,
+      "cost_efficiency_score": 0.65,
+      "evidence_strength_score": 0.85,
+      "scalability_score": 0.80,
+      "implementation_risk_score": 0.20,
+      "beneficiary_reach": 12000,
+      "estimated_impact_per_lakh": 14.5,
+      "missing_fields": [],
+      "extraction_confidence": 0.91,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0004",
+    "name": "Mahila Kisan Organic Producer Cluster",
+    "ngo_id": "NGO-0004",
+    "sector": "LIVELIHOOD",
+    "geographies": [
+      {
+        "state": "Madhya Pradesh",
+        "district": "Mandla",
+        "block": "Nainpur"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3200,
+      "groups": ["tribal women farmers", "smallholders"],
+      "age_ranges": ["20-50"],
+      "vulnerable_groups": ["Gond indigenous farmers", "landless labourers"]
+    },
+    "financials": {
+      "requested_amount_paise": 28000000,
+      "current_funding_paise": 6000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-004",
+        "name": "Annual Household Farm Income Growth",
+        "unit": "percentage",
+        "baseline": 35000.0,
+        "target": 72000.0,
+        "measurement_method": "Producer company sales audit"
+      }
+    ],
+    "description": "Organic millet cultivation and direct market linkage for tribal women in Mandla.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0004",
+      "project_id": "PRJ-0004",
+      "need_score": 0.89,
+      "expected_impact_score": 0.84,
+      "cost_efficiency_score": 0.87,
+      "evidence_strength_score": 0.81,
+      "scalability_score": 0.74,
+      "implementation_risk_score": 0.22,
+      "beneficiary_reach": 3200,
+      "estimated_impact_per_lakh": 42.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.86,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0005",
+    "name": "Adolescent Skill & Vocational Academy",
+    "ngo_id": "NGO-0005",
+    "sector": "GENDER_EQUALITY",
+    "geographies": [
+      {
+        "state": "Rajasthan",
+        "district": "Barmer",
+        "block": "Chohtan"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4000,
+      "groups": ["adolescent girls", "rural young women"],
+      "age_ranges": ["15-24"],
+      "vulnerable_groups": ["desert border communities", "out-of-school girls"]
+    },
+    "financials": {
+      "requested_amount_paise": 32000000,
+      "current_funding_paise": 10000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-005",
+        "name": "Certified Graduates Placed in Formal Employment",
+        "unit": "trainees",
+        "baseline": 120.0,
+        "target": 2800.0,
+        "measurement_method": "Employer offer letters and provident fund records"
+      }
+    ],
+    "description": "Vocational handicraft, solar repair, and IT literacy academy in rural Barmer. Demonstrates Case 5: Serves as baseline for dynamic mid-cycle fund reallocation scenario.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0005",
+      "project_id": "PRJ-0005",
+      "need_score": 0.91,
+      "expected_impact_score": 0.79,
+      "cost_efficiency_score": 0.80,
+      "evidence_strength_score": 0.75,
+      "scalability_score": 0.68,
+      "implementation_risk_score": 0.35,
+      "beneficiary_reach": 4000,
+      "estimated_impact_per_lakh": 36.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.84,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0006",
+    "name": "Community Water Security & Check Dams",
+    "ngo_id": "NGO-0006",
+    "sector": "RURAL_DEVELOPMENT",
+    "geographies": [
+      {
+        "state": "Jharkhand",
+        "district": "Latehar",
+        "block": "Manika"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 2500,
+      "groups": ["smallholder farmers", "tribal hamlets"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["drought-affected rural families"]
+    },
+    "financials": {
+      "requested_amount_paise": 25000000,
+      "current_funding_paise": 0,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-006",
+        "name": "Seasonal Groundwater Storage Gain",
+        "unit": "cubic_meters",
+        "baseline": 0.0,
+        "target": 150000.0,
+        "measurement_method": "Hydrological sensor loggers"
+      }
+    ],
+    "description": "Earthen check dams and rooftop rainwater harvesting in drought-prone Latehar. Demonstrates Case 6: Contains missing audit/survey fields which are transparently surfaced.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0006",
+      "project_id": "PRJ-0006",
+      "need_score": 0.93,
+      "expected_impact_score": 0.70,
+      "cost_efficiency_score": 0.76,
+      "evidence_strength_score": 0.52,
+      "scalability_score": 0.60,
+      "implementation_risk_score": 0.45,
+      "beneficiary_reach": 2500,
+      "estimated_impact_per_lakh": 30.0,
+      "missing_fields": [
+        "audit_report_fy23",
+        "baseline_groundwater_survey"
+      ],
+      "extraction_confidence": 0.68,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0007",
+    "name": "Poshan First Child Malnutrition Intervention",
+    "ngo_id": "NGO-0007",
+    "sector": "POVERTY_HUNGER",
+    "geographies": [
+      {
+        "state": "Odisha",
+        "district": "Koraput",
+        "block": "Semiliguda"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 5200,
+      "groups": ["under-5 children", "lactating mothers"],
+      "age_ranges": ["0-5", "18-35"],
+      "vulnerable_groups": ["tribal children in remote hamlets"]
+    },
+    "financials": {
+      "requested_amount_paise": 42000000,
+      "current_funding_paise": 8000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-007",
+        "name": "Severe Acute Malnutrition (SAM) Recovery",
+        "unit": "children",
+        "baseline": 850.0,
+        "target": 120.0,
+        "measurement_method": "Anthropometric MUAC tape assessments"
+      }
+    ],
+    "description": "Nutritional supplementary feeding, therapeutic food kits, and kitchen gardens in remote Koraput hamlets.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0007",
+      "project_id": "PRJ-0007",
+      "need_score": 0.98,
+      "expected_impact_score": 0.88,
+      "cost_efficiency_score": 0.93,
+      "evidence_strength_score": 0.84,
+      "scalability_score": 0.70,
+      "implementation_risk_score": 0.25,
+      "beneficiary_reach": 5200,
+      "estimated_impact_per_lakh": 52.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.89,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0008",
+    "name": "Aarogya Vahini Remote Healthcare Access",
+    "ngo_id": "NGO-0008",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Assam",
+        "district": "Dhubri",
+        "block": "Bilasipara"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 8000,
+      "groups": ["riverine island residents", "tea garden workers"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["char island communities"]
+    },
+    "financials": {
+      "requested_amount_paise": 45000000,
+      "current_funding_paise": 12000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-008",
+        "name": "Primary Outpatient Consultations Conducted",
+        "unit": "consultations",
+        "baseline": 1200.0,
+        "target": 18000.0,
+        "measurement_method": "Electronic medical records in boat clinics"
+      }
+    ],
+    "description": "Boat clinics and mobile telemetry units providing primary health screenings in flood-prone char areas.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0008",
+      "project_id": "PRJ-0008",
+      "need_score": 0.94,
+      "expected_impact_score": 0.86,
+      "cost_efficiency_score": 0.82,
+      "evidence_strength_score": 0.79,
+      "scalability_score": 0.75,
+      "implementation_risk_score": 0.30,
+      "beneficiary_reach": 8000,
+      "estimated_impact_per_lakh": 44.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.85,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0009",
+    "name": "Urja Gram Clean Energy Cooperative",
+    "ngo_id": "NGO-0009",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Uttar Pradesh",
+        "district": "Shravasti",
+        "block": "Jamunaha"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3800,
+      "groups": ["off-grid rural households", "village enterprises"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["un-electrified rural hamlets"]
+    },
+    "financials": {
+      "requested_amount_paise": 38000000,
+      "current_funding_paise": 5000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-009",
+        "name": "Homes Powered with Solar Microgrid",
+        "unit": "households",
+        "baseline": 40.0,
+        "target": 750.0,
+        "measurement_method": "Smart smart meter telemetry"
+      }
+    ],
+    "description": "Decentralized DC solar microgrids replacing kerosene lamps and powering micro-enterprises in Shravasti.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0009",
+      "project_id": "PRJ-0009",
+      "need_score": 0.92,
+      "expected_impact_score": 0.81,
+      "cost_efficiency_score": 0.85,
+      "evidence_strength_score": 0.77,
+      "scalability_score": 0.73,
+      "implementation_risk_score": 0.26,
+      "beneficiary_reach": 3800,
+      "estimated_impact_per_lakh": 39.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.87,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0010",
+    "name": "Buniyaad Tribal Foundational Learning Centres",
+    "ngo_id": "NGO-0010",
+    "sector": "EDUCATION",
+    "geographies": [
+      {
+        "state": "Odisha",
+        "district": "Rayagada",
+        "block": "Bissamcuttack"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4500,
+      "groups": ["tribal primary schoolchildren"],
+      "age_ranges": ["5-11"],
+      "vulnerable_groups": ["Kui dialect-speaking first-generation learners"]
+    },
+    "financials": {
+      "requested_amount_paise": 30000000,
+      "current_funding_paise": 4000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 20,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-010",
+        "name": "Children Achieving Grade-Level Reading",
+        "unit": "students",
+        "baseline": 350.0,
+        "target": 3800.0,
+        "measurement_method": "ASER-standard diagnostic reading tests"
+      }
+    ],
+    "description": "Mother-tongue based multilingual education for Kondh tribal children in Rayagada.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0010",
+      "project_id": "PRJ-0010",
+      "need_score": 0.97,
+      "expected_impact_score": 0.89,
+      "cost_efficiency_score": 0.90,
+      "evidence_strength_score": 0.86,
+      "scalability_score": 0.76,
+      "implementation_risk_score": 0.21,
+      "beneficiary_reach": 4500,
+      "estimated_impact_per_lakh": 46.5,
+      "missing_fields": [],
+      "extraction_confidence": 0.92,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0011",
+    "name": "Bunkar Sangam Handloom Livelihood Uplift",
+    "ngo_id": "NGO-0011",
+    "sector": "LIVELIHOOD",
+    "geographies": [
+      {
+        "state": "Uttar Pradesh",
+        "district": "Varanasi",
+        "block": "Sewapuri"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 2800,
+      "groups": ["traditional handloom weavers", "artisan families"],
+      "age_ranges": ["18-60"],
+      "vulnerable_groups": ["debt-burdened weaver households"]
+    },
+    "financials": {
+      "requested_amount_paise": 24000000,
+      "current_funding_paise": 8000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-011",
+        "name": "Artisans Connected to Direct D2C Portals",
+        "unit": "weavers",
+        "baseline": 80.0,
+        "target": 1200.0,
+        "measurement_method": "Platform transaction ledgers"
+      }
+    ],
+    "description": "Solar jacquard retrofitting and direct e-commerce access for Banarasi silk handloom weavers.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0011",
+      "project_id": "PRJ-0011",
+      "need_score": 0.75,
+      "expected_impact_score": 0.80,
+      "cost_efficiency_score": 0.84,
+      "evidence_strength_score": 0.82,
+      "scalability_score": 0.78,
+      "implementation_risk_score": 0.20,
+      "beneficiary_reach": 2800,
+      "estimated_impact_per_lakh": 35.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.88,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0012",
+    "name": "Swachh Vidyalaya Wash & Dignity Project",
+    "ngo_id": "NGO-0012",
+    "sector": "GENDER_EQUALITY",
+    "geographies": [
+      {
+        "state": "Bihar",
+        "district": "Purnia",
+        "block": "Kasba"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 6000,
+      "groups": ["rural schoolgirls"],
+      "age_ranges": ["10-18"],
+      "vulnerable_groups": ["flood-affected school students"]
+    },
+    "financials": {
+      "requested_amount_paise": 27000000,
+      "current_funding_paise": 3000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 15,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-012",
+        "name": "Girl Student School Attendance Rate",
+        "unit": "percentage",
+        "baseline": 62.0,
+        "target": 88.0,
+        "measurement_method": "Biometric and register attendance audits"
+      }
+    ],
+    "description": "Menstrual hygiene management, incinerators, and running water sanitation units across 40 rural schools.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0012",
+      "project_id": "PRJ-0012",
+      "need_score": 0.95,
+      "expected_impact_score": 0.85,
+      "cost_efficiency_score": 0.92,
+      "evidence_strength_score": 0.80,
+      "scalability_score": 0.75,
+      "implementation_risk_score": 0.24,
+      "beneficiary_reach": 6000,
+      "estimated_impact_per_lakh": 49.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.89,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0013",
+    "name": "Annapurna Suraksha Food Banking Network",
+    "ngo_id": "NGO-0013",
+    "sector": "POVERTY_HUNGER",
+    "geographies": [
+      {
+        "state": "Jharkhand",
+        "district": "Latehar",
+        "block": "Balumath"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4800,
+      "groups": ["primitive tribal groups", "elderly destitute"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["Birhor forest dwellers", "pensionless widows"]
+    },
+    "financials": {
+      "requested_amount_paise": 36000000,
+      "current_funding_paise": 6000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-013",
+        "name": "Meals Provided during Lean Agricultural Season",
+        "unit": "meals",
+        "baseline": 5000.0,
+        "target": 120000.0,
+        "measurement_method": "Grain bank biometric dispatches"
+      }
+    ],
+    "description": "Community grain banks and nutrition safety nets for forest-dwelling indigenous families.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0013",
+      "project_id": "PRJ-0013",
+      "need_score": 0.94,
+      "expected_impact_score": 0.83,
+      "cost_efficiency_score": 0.88,
+      "evidence_strength_score": 0.76,
+      "scalability_score": 0.70,
+      "implementation_risk_score": 0.27,
+      "beneficiary_reach": 4800,
+      "estimated_impact_per_lakh": 41.5,
+      "missing_fields": [],
+      "extraction_confidence": 0.87,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0014",
+    "name": "Coastal Bio-Shield & Mangrove Restoration",
+    "ngo_id": "NGO-0014",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "block": "Guhagar"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3500,
+      "groups": ["artisanal fisherfolk", "estuarine communities"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["cyclone-exposed small-scale fishers"]
+    },
+    "financials": {
+      "requested_amount_paise": 34000000,
+      "current_funding_paise": 10000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-014",
+        "name": "Hectares of Restored Mangrove Canopy",
+        "unit": "hectares",
+        "baseline": 15.0,
+        "target": 120.0,
+        "measurement_method": "Drone LiDAR canopy analysis"
+      }
+    ],
+    "description": "Community mangrove planting and crab farming for cyclone mitigation along the Konkan coast.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0014",
+      "project_id": "PRJ-0014",
+      "need_score": 0.78,
+      "expected_impact_score": 0.82,
+      "cost_efficiency_score": 0.81,
+      "evidence_strength_score": 0.88,
+      "scalability_score": 0.65,
+      "implementation_risk_score": 0.32,
+      "beneficiary_reach": 3500,
+      "estimated_impact_per_lakh": 31.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.90,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0015",
+    "name": "Kisan Jal Dhara Micro-Drip Irrigation",
+    "ngo_id": "NGO-0015",
+    "sector": "RURAL_DEVELOPMENT",
+    "geographies": [
+      {
+        "state": "Maharashtra",
+        "district": "Beed",
+        "block": "Kaij"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 4200,
+      "groups": ["drought-impacted farmers", "cotton growers"],
+      "age_ranges": ["22-65"],
+      "vulnerable_groups": ["rainfed marginal cultivators"]
+    },
+    "financials": {
+      "requested_amount_paise": 33000000,
+      "current_funding_paise": 7000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 18,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-015",
+        "name": "Irrigation Water Saved per Acre",
+        "unit": "percentage",
+        "baseline": 0.0,
+        "target": 55.0,
+        "measurement_method": "Farm flow-meter telemetry"
+      }
+    ],
+    "description": "Gravity-fed drip systems and farm ponds in Marathwada's agrarian distress zone.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0015",
+      "project_id": "PRJ-0015",
+      "need_score": 0.92,
+      "expected_impact_score": 0.86,
+      "cost_efficiency_score": 0.87,
+      "evidence_strength_score": 0.83,
+      "scalability_score": 0.77,
+      "implementation_risk_score": 0.25,
+      "beneficiary_reach": 4200,
+      "estimated_impact_per_lakh": 43.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.89,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0016",
+    "name": "Matrutva Raksha Mobile Neonatal Care",
+    "ngo_id": "NGO-0016",
+    "sector": "HEALTHCARE",
+    "geographies": [
+      {
+        "state": "Rajasthan",
+        "district": "Jalore",
+        "block": "Sanchore"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 5500,
+      "groups": ["pregnant women", "infants"],
+      "age_ranges": ["0-1", "18-35"],
+      "vulnerable_groups": ["semi-nomadic pastoralists"]
+    },
+    "financials": {
+      "requested_amount_paise": 39000000,
+      "current_funding_paise": 9000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-016",
+        "name": "Institutional Delivery Adherence",
+        "unit": "percentage",
+        "baseline": 48.0,
+        "target": 84.0,
+        "measurement_method": "Govt civil registration system linkage"
+      }
+    ],
+    "description": "Antenatal screening vans and portable ultrasound kits serving scattered pastoral hamlets in Jalore.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0016",
+      "project_id": "PRJ-0016",
+      "need_score": 0.93,
+      "expected_impact_score": 0.87,
+      "cost_efficiency_score": 0.84,
+      "evidence_strength_score": 0.81,
+      "scalability_score": 0.73,
+      "implementation_risk_score": 0.28,
+      "beneficiary_reach": 5500,
+      "estimated_impact_per_lakh": 42.5,
+      "missing_fields": [],
+      "extraction_confidence": 0.88,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0017",
+    "name": "Yuva Connect Rural BPO & IT Skills",
+    "ngo_id": "NGO-0017",
+    "sector": "EDUCATION",
+    "geographies": [
+      {
+        "state": "Assam",
+        "district": "Baksa",
+        "block": "Barama"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3000,
+      "groups": ["rural youth", "Bodo ethnic minority youth"],
+      "age_ranges": ["17-25"],
+      "vulnerable_groups": ["conflict-affected rural youth"]
+    },
+    "financials": {
+      "requested_amount_paise": 29000000,
+      "current_funding_paise": 5000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 12,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-017",
+        "name": "Youth Placed in Digital Micro-Jobs",
+        "unit": "candidates",
+        "baseline": 50.0,
+        "target": 1800.0,
+        "measurement_method": "Direct payroll and gig contract records"
+      }
+    ],
+    "description": "Solar-powered IT training hub and remote data annotation skilling in the Bodoland Territorial Region.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0017",
+      "project_id": "PRJ-0017",
+      "need_score": 0.88,
+      "expected_impact_score": 0.80,
+      "cost_efficiency_score": 0.83,
+      "evidence_strength_score": 0.77,
+      "scalability_score": 0.82,
+      "implementation_risk_score": 0.26,
+      "beneficiary_reach": 3000,
+      "estimated_impact_per_lakh": 37.0,
+      "missing_fields": [],
+      "extraction_confidence": 0.87,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  },
+  {
+    "project_id": "PRJ-0018",
+    "name": "Harit Dhara Agro-Forestry Cooperative",
+    "ngo_id": "NGO-0018",
+    "sector": "ENVIRONMENT",
+    "geographies": [
+      {
+        "state": "Madhya Pradesh",
+        "district": "Dindori",
+        "block": "Samnapur"
+      }
+    ],
+    "beneficiary_profile": {
+      "target_count": 3600,
+      "groups": ["Baiga indigenous cultivators"],
+      "age_ranges": ["all"],
+      "vulnerable_groups": ["Particularly Vulnerable Tribal Groups (PVTG)"]
+    },
+    "financials": {
+      "requested_amount_paise": 31000000,
+      "current_funding_paise": 4000000,
+      "other_funding_paise": 0
+    },
+    "duration_months": 24,
+    "impact_metrics": [
+      {
+        "metric_id": "MET-018",
+        "name": "Indigenous Fruit and Timber Trees Planted",
+        "unit": "trees",
+        "baseline": 2000.0,
+        "target": 80000.0,
+        "measurement_method": "Geotagged seedling survival monitoring"
+      }
+    ],
+    "description": "Multi-tier horticulture, agro-forestry, and beekeeping for Baiga PVTG communities in Dindori.",
+    "schema_version": "project-v1",
+    "impact_dna": {
+      "dna_id": "DNA-0018",
+      "project_id": "PRJ-0018",
+      "need_score": 0.89,
+      "expected_impact_score": 0.82,
+      "cost_efficiency_score": 0.86,
+      "evidence_strength_score": 0.80,
+      "scalability_score": 0.75,
+      "implementation_risk_score": 0.24,
+      "beneficiary_reach": 3600,
+      "estimated_impact_per_lakh": 39.5,
+      "missing_fields": [],
+      "extraction_confidence": 0.90,
+      "model_name": "impact-dna-v1",
+      "prompt_version": "v1.0",
+      "schema_version": "dna-v1"
+    }
+  }
+]

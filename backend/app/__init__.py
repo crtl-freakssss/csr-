@@ -1,0 +1,1 @@
+"""AllocateAI application package."""

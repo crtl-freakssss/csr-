@@ -1,0 +1,164 @@
+[
+  {
+    "state": "Maharashtra",
+    "sector": "EDUCATION",
+    "total_regional_csr_paise": 45000000000,
+    "total_population": 125000000,
+    "target_population": 450000,
+    "existing_csr_projects": 142,
+    "coverage_estimate": 0.68
+  },
+  {
+    "state": "Maharashtra",
+    "sector": "ENVIRONMENT",
+    "total_regional_csr_paise": 38000000000,
+    "total_population": 125000000,
+    "target_population": 400000,
+    "existing_csr_projects": 98,
+    "coverage_estimate": 0.58
+  },
+  {
+    "state": "Maharashtra",
+    "sector": "RURAL_DEVELOPMENT",
+    "total_regional_csr_paise": 28000000000,
+    "total_population": 125000000,
+    "target_population": 500000,
+    "existing_csr_projects": 64,
+    "coverage_estimate": 0.44
+  },
+  {
+    "state": "Karnataka",
+    "sector": "ENVIRONMENT",
+    "total_regional_csr_paise": 32000000000,
+    "total_population": 67500000,
+    "target_population": 350000,
+    "existing_csr_projects": 82,
+    "coverage_estimate": 0.62
+  },
+  {
+    "state": "Rajasthan",
+    "sector": "HEALTHCARE",
+    "total_regional_csr_paise": 11000000000,
+    "total_population": 81000000,
+    "target_population": 650000,
+    "existing_csr_projects": 38,
+    "coverage_estimate": 0.28
+  },
+  {
+    "state": "Rajasthan",
+    "sector": "GENDER_EQUALITY",
+    "total_regional_csr_paise": 8200000000,
+    "total_population": 81000000,
+    "target_population": 480000,
+    "existing_csr_projects": 26,
+    "coverage_estimate": 0.22
+  },
+  {
+    "state": "Uttar Pradesh",
+    "sector": "ENVIRONMENT",
+    "total_regional_csr_paise": 14000000000,
+    "total_population": 235000000,
+    "target_population": 1500000,
+    "existing_csr_projects": 41,
+    "coverage_estimate": 0.16
+  },
+  {
+    "state": "Uttar Pradesh",
+    "sector": "LIVELIHOOD",
+    "total_regional_csr_paise": 16000000000,
+    "total_population": 235000000,
+    "target_population": 1200000,
+    "existing_csr_projects": 49,
+    "coverage_estimate": 0.18
+  },
+  {
+    "state": "Madhya Pradesh",
+    "sector": "LIVELIHOOD",
+    "total_regional_csr_paise": 10500000000,
+    "total_population": 85000000,
+    "target_population": 790000,
+    "existing_csr_projects": 34,
+    "coverage_estimate": 0.23
+  },
+  {
+    "state": "Madhya Pradesh",
+    "sector": "ENVIRONMENT",
+    "total_regional_csr_paise": 9500000000,
+    "total_population": 85000000,
+    "target_population": 880000,
+    "existing_csr_projects": 31,
+    "coverage_estimate": 0.19
+  },
+  {
+    "state": "Bihar",
+    "sector": "GENDER_EQUALITY",
+    "total_regional_csr_paise": 3200000000,
+    "total_population": 127000000,
+    "target_population": 1200000,
+    "existing_csr_projects": 14,
+    "coverage_estimate": 0.08
+  },
+  {
+    "state": "Bihar",
+    "sector": "HEALTHCARE",
+    "total_regional_csr_paise": 4900000000,
+    "total_population": 127000000,
+    "target_population": 1500000,
+    "existing_csr_projects": 19,
+    "coverage_estimate": 0.09
+  },
+  {
+    "state": "Jharkhand",
+    "sector": "POVERTY_HUNGER",
+    "total_regional_csr_paise": 2800000000,
+    "total_population": 39500000,
+    "target_population": 800000,
+    "existing_csr_projects": 11,
+    "coverage_estimate": 0.07
+  },
+  {
+    "state": "Jharkhand",
+    "sector": "RURAL_DEVELOPMENT",
+    "total_regional_csr_paise": 3100000000,
+    "total_population": 39500000,
+    "target_population": 750000,
+    "existing_csr_projects": 12,
+    "coverage_estimate": 0.10
+  },
+  {
+    "state": "Odisha",
+    "sector": "EDUCATION",
+    "total_regional_csr_paise": 4200000000,
+    "total_population": 46000000,
+    "target_population": 650000,
+    "existing_csr_projects": 18,
+    "coverage_estimate": 0.11
+  },
+  {
+    "state": "Odisha",
+    "sector": "POVERTY_HUNGER",
+    "total_regional_csr_paise": 3400000000,
+    "total_population": 46000000,
+    "target_population": 720000,
+    "existing_csr_projects": 15,
+    "coverage_estimate": 0.09
+  },
+  {
+    "state": "Assam",
+    "sector": "EDUCATION",
+    "total_regional_csr_paise": 3900000000,
+    "total_population": 35500000,
+    "target_population": 550000,
+    "existing_csr_projects": 14,
+    "coverage_estimate": 0.12
+  },
+  {
+    "state": "Assam",
+    "sector": "HEALTHCARE",
+    "total_regional_csr_paise": 3200000000,
+    "total_population": 35500000,
+    "target_population": 600000,
+    "existing_csr_projects": 12,
+    "coverage_estimate": 0.10
+  }
+]
